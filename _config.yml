@@ -12,5 +12,9 @@ color:
     - '#253237'
 layout_spectrum: 0.323504684260115
 name: ArtsOvation
+navigation:
+  - name: Valley Center Stage
+    url: 'http://valleycenterstage.org'
+    type: external
 title: Innovation for the Arts
 description: by René Schuchter
