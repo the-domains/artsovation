@@ -1,0 +1,14 @@
+layout_spectrum: 0.323504684260115
+typography_spectrum: 0.8458669148385525
+color:
+  brandStrength: 0.8674957007169724
+  lightness: 0.12564437184482813
+  saturation: 0.543540419312194
+  rhythmicContrast: 0.9404260038863868
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: ArtsOvation
